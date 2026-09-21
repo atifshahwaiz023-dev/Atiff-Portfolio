@@ -2,7 +2,6 @@ import gymIcon from "../assets/gym.png";
 import userIcon from "../assets/use.jpg";
 import loginIcon from "../assets/login.png";
 import codioraIcon from "../assets/Codiora.png";
-import imageIcon from "../assets/image.png";
 
 export default function Portfolio() {
   return (
@@ -18,30 +17,6 @@ export default function Portfolio() {
           </a>
         </div>
         <div className="port-grid">
-          <div className="port-card">
-            <a
-              href="https://e-commerce-new-dun.vercel.app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <div className="port-thumb">
-                <img src={imageIcon} alt="" />
-              </div>
-              <div className="port-body">
-                <div>
-                  <h3>E-commerce Store</h3>
-                  <p>
-                    A fully responsive e-commerce web application featuring
-                    product catalogs, a dynamic shopping cart, user
-                    authentication, and seamless checkout functionality built
-                    with modern web technologies
-                  </p>
-                </div>
-                <div className="arrow-btn">↗</div>
-              </div>
-            </a>
-          </div>
-
           <div className="port-card">
             <a
               href="https://user-management-system-six-ruddy.vercel.app"
@@ -135,6 +110,17 @@ export default function Portfolio() {
                 <div className="arrow-btn">↗</div>
               </div>
             </a>
+          </div>
+
+          <div className="port-card">
+            <div className="port-thumb">🎨</div>
+            <div className="port-body">
+              <div>
+                <h3>Portfolio Variants</h3>
+                <p>Design Exploration</p>
+              </div>
+              <div className="arrow-btn">↗</div>
+            </div>
           </div>
 
           <div className="port-card">
