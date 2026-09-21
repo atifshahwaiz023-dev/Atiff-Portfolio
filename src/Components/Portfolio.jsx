@@ -2,7 +2,7 @@ import gymIcon from "../assets/gym.png";
 import userIcon from "../assets/use.jpg";
 import loginIcon from "../assets/login.png";
 import codioraIcon from "../assets/Codiora.png";
-import comerceIcon from "../assets/comerce.png";
+import comerceIcon from "../assets/commerce.png";
 
 export default function Portfolio() {
   return (
