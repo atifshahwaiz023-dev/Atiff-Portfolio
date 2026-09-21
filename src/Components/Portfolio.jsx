@@ -2,7 +2,7 @@ import gymIcon from "../assets/gym.png";
 import userIcon from "../assets/use.jpg";
 import loginIcon from "../assets/login.png";
 import codioraIcon from "../assets/Codiora.png";
-import comerceIcon from "../assets/commerce.png";
+import commerceIcon from "../assets/commerce.png";
 
 export default function Portfolio() {
   return (
@@ -25,7 +25,7 @@ export default function Portfolio() {
               rel="noopener noreferrer"
             >
               <div className="port-thumb">
-                <img src={comerceIcon} alt="" />
+                <img src={commerceIcon} alt="" />
               </div>
               <div className="port-body">
                 <div>
