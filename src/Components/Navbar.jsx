@@ -1,5 +1,3 @@
-
-
 export default function Navbar() {
   return (
     <header>
@@ -17,8 +15,8 @@ export default function Navbar() {
           <a href="#contact">Contact</a>
         </nav>
         <a 
-          href="/Atiff shahwaiz DV.pdf" 
-          download="Atiff_Shahwaiz_DV.pdf" 
+          href="/Atiff-Shahwaiz-CV.pdf" 
+          download="Atiff_Shahwaiz_CV.pdf" 
           className="btn nav-cta"
         >
           Download Resume
