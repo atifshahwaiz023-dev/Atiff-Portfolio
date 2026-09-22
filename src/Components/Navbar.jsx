@@ -1,4 +1,4 @@
-import React from 'react';
+
 
 export default function Navbar() {
   return (
@@ -17,8 +17,8 @@ export default function Navbar() {
           <a href="#contact">Contact</a>
         </nav>
         <a 
-          href="/Atiff shahwaiz Dv.pdf" 
-          download="Atiff_Shahwaiz_Dv.pdf" 
+          href="/Atiff shahwaiz DV.pdf" 
+          download="Atiff_Shahwaiz_DV.pdf" 
           className="btn nav-cta"
         >
           Download Resume
