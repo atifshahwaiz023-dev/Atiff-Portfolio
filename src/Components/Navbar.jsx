@@ -15,7 +15,7 @@ export default function Navbar() {
           <a href="#contact">Contact</a>
         </nav>
         <a 
-          href="/Atiff-Shahwaiz-CV.pdf" 
+          href="/Atiff%20shahwaiz%20DV.pdf" 
           download="Atiff_Shahwaiz_CV.pdf" 
           className="btn nav-cta"
         >
