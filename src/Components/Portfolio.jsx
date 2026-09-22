@@ -16,26 +16,7 @@ export default function Portfolio() {
             View All Projects
           </a>
         </div>
-
         <div className="port-grid">
-          <div className="port-card">
-            <div className="port-thumb">
-              <img src="/commerce.png" alt="E-Commerce Store" />
-            </div>
-            <div className="port-body">
-              <div>
-                <h3>E-Commerce Store</h3>
-                <p>
-                  A fully responsive e-commerce web application featuring
-                  product catalogs, a dynamic shopping cart, user
-                  authentication, and seamless checkout functionality built with
-                  modern web technologies
-                </p>
-              </div>
-              <div className="arrow-btn">↗</div>
-            </div>
-          </div>
-
           <div className="port-card">
             <a
               href="https://user-management-system-six-ruddy.vercel.app"
@@ -129,6 +110,17 @@ export default function Portfolio() {
                 <div className="arrow-btn">↗</div>
               </div>
             </a>
+          </div>
+
+          <div className="port-card">
+            <div className="port-thumb">🎨</div>
+            <div className="port-body">
+              <div>
+                <h3>Portfolio Variants</h3>
+                <p>Design Exploration</p>
+              </div>
+              <div className="arrow-btn">↗</div>
+            </div>
           </div>
 
           <div className="port-card">
